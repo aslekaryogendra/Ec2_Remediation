@@ -1,0 +1,4 @@
+Instance_ID,Instance_Type,Instance_State,Instance_Tags,Instance_Region
+i-0a70cd9e12b1e1004,t2.micro,stopped,Tags are not Defined,ap-southeast-2
+i-045063e7589cf8348,t2.micro,stopped,Tags are not Defined,us-east-1
+i-006970c0ee9e68b11,t2.micro,stopped,Tags are not Defined,us-east-1
